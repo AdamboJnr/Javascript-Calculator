@@ -1,0 +1,32 @@
+.container{
+    margin: auto;
+    width: 320px;
+    background-color: black;
+    border-radius: 10px;
+}
+table{
+    width: 300px;
+    margin: auto;
+    padding: 10px 10px;
+    /* background-color: black; */
+}
+button{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    border-style: none;
+}
+.display{
+    width: 80%;
+    height: 60px;
+    padding: 10px;
+    margin: auto;
+    color: white;
+    text-align: end;
+}
+button:hover{
+    cursor: pointer;
+}
+.equals{
+    background-color: brown;
+}
